@@ -1,0 +1,13 @@
+C:\Repo\TP5\tp5---2021-rubenguzman48Ejercicio3\tp5---2021-rubenguzman48Ejercicio3\bin\Debug\netcoreapp3.1\tp5---2021-rubenguzman48Ejercicio3.exe
+C:\Repo\TP5\tp5---2021-rubenguzman48Ejercicio3\tp5---2021-rubenguzman48Ejercicio3\bin\Debug\netcoreapp3.1\tp5---2021-rubenguzman48Ejercicio3.deps.json
+C:\Repo\TP5\tp5---2021-rubenguzman48Ejercicio3\tp5---2021-rubenguzman48Ejercicio3\bin\Debug\netcoreapp3.1\tp5---2021-rubenguzman48Ejercicio3.runtimeconfig.json
+C:\Repo\TP5\tp5---2021-rubenguzman48Ejercicio3\tp5---2021-rubenguzman48Ejercicio3\bin\Debug\netcoreapp3.1\tp5---2021-rubenguzman48Ejercicio3.runtimeconfig.dev.json
+C:\Repo\TP5\tp5---2021-rubenguzman48Ejercicio3\tp5---2021-rubenguzman48Ejercicio3\bin\Debug\netcoreapp3.1\tp5---2021-rubenguzman48Ejercicio3.dll
+C:\Repo\TP5\tp5---2021-rubenguzman48Ejercicio3\tp5---2021-rubenguzman48Ejercicio3\bin\Debug\netcoreapp3.1\tp5---2021-rubenguzman48Ejercicio3.pdb
+C:\Repo\TP5\tp5---2021-rubenguzman48Ejercicio3\tp5---2021-rubenguzman48Ejercicio3\obj\Debug\netcoreapp3.1\tp5---2021-rubenguzman48Ejercicio3.csprojAssemblyReference.cache
+C:\Repo\TP5\tp5---2021-rubenguzman48Ejercicio3\tp5---2021-rubenguzman48Ejercicio3\obj\Debug\netcoreapp3.1\tp5---2021-rubenguzman48Ejercicio3.AssemblyInfoInputs.cache
+C:\Repo\TP5\tp5---2021-rubenguzman48Ejercicio3\tp5---2021-rubenguzman48Ejercicio3\obj\Debug\netcoreapp3.1\tp5---2021-rubenguzman48Ejercicio3.AssemblyInfo.cs
+C:\Repo\TP5\tp5---2021-rubenguzman48Ejercicio3\tp5---2021-rubenguzman48Ejercicio3\obj\Debug\netcoreapp3.1\tp5---2021-rubenguzman48Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Repo\TP5\tp5---2021-rubenguzman48Ejercicio3\tp5---2021-rubenguzman48Ejercicio3\obj\Debug\netcoreapp3.1\tp5---2021-rubenguzman48Ejercicio3.dll
+C:\Repo\TP5\tp5---2021-rubenguzman48Ejercicio3\tp5---2021-rubenguzman48Ejercicio3\obj\Debug\netcoreapp3.1\tp5---2021-rubenguzman48Ejercicio3.pdb
+C:\Repo\TP5\tp5---2021-rubenguzman48Ejercicio3\tp5---2021-rubenguzman48Ejercicio3\obj\Debug\netcoreapp3.1\tp5---2021-rubenguzman48Ejercicio3.genruntimeconfig.cache
